@@ -1,4 +1,5 @@
 Assuming you lift:
+
 - 2g protein per kg of target bodyweight
 - 1g fat per kg of target bodyweight
 - remaining calories carbs
