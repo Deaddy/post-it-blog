@@ -1,4 +1,5 @@
 Main goals:
+
 - eat lots of food to fuel training
 - eat progressively more food to fuel more training
 
