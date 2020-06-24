@@ -3,6 +3,7 @@ Main goals:
 - eat progressively more food to fuel more training
 
 Contains:
+
 - meat as main protein source
 - an easily digestible carb source
 - some broth to mix in
