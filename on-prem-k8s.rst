@@ -13,3 +13,4 @@ A few things to run a k8s on on-prem servers
   is easy to setup and volume provisioners exist
 - if you can backup to something outside the cluster rook ceph is a low-config
   option for providing ceph
+- for log collection and metrics use prom-operator + grafna + loki-stack
