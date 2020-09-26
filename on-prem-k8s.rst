@@ -1,4 +1,5 @@
 A few things to run a k8s on on-prem servers
+
 - use kubeadm to install k8s
 - automate install as far as possible
 - don't virtualize masters when all other noderes are bare metal
