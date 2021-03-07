@@ -5,6 +5,7 @@ Assuming you lift:
 - remaining calories carbs
 
 If you don't lift 1.5g protein per kg of bodyweight.
+If stress level is high, add 0.5g proten per kg of bodyweight.
 
 If your target bodyweight is far above your current BW, say >10%, it is
 sensible to split the journey into more managable chunks <5%.
